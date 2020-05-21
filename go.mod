@@ -1,3 +1,3 @@
-module github.com/operandai/ipn
+module github.com/sfomuseum/ipn
 
-go 1.14
+go 1.12
